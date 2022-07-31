@@ -1,0 +1,51 @@
+package one.digitalInovation.Bootcamp;
+
+public class main {
+    public static void main(String[] args) {
+
+        int i;
+//      int i;
+        int I;
+//        int 1a;
+        int _1a;
+        int $ag;
+//      para rodar as variaveis a cima:
+        i = 5;
+        I = 10;
+        _1a = 20;
+        $ag = 7;
+
+        int l = 10;
+//       int final j = 10;
+        final int j = 10;
+//  tentando muda o valor de uma invariavel
+//          j = 15;
+         int asrn24678md;
+//        int asrn245 78 md;
+//    certo porem com simbolos -> int asrn2$4678_md =10;
+//        int asrn2$46%78_md = 10;
+
+        int asrn2467ad = 100;
+        int asrn246_7ad = 10;
+
+        int quantidadeProduto = 50;
+//        int QuantidadeProduto;
+        final int NUMERO_TENTATIVAS = 5;
+//        final int numeroTentativas = 5;
+        int QUANTIDADE_OPCOES = 5;
+//        int qtdProd;
+
+        System.out.println(i);
+        System.out.println(I);
+        System.out.println(_1a);
+        System.out.println($ag);
+
+        System.out.println(j);
+        System.out.println(asrn2467ad);
+        System.out.println(asrn246_7ad);
+
+        System.out.println( quantidadeProduto);
+        System.out.println(NUMERO_TENTATIVAS);
+        System.out.println(QUANTIDADE_OPCOES);
+    }
+}
